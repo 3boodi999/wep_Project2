@@ -1,0 +1,126 @@
+.login1 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #6e6662;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 16px;
+    width: 130px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-top: 30px;
+   }
+   
+   .login1 span {
+    font-size: 20px;
+    transition: 0.5s;
+   }
+   
+ 
+   .login1:hover span {
+    font-size: 30px;
+   }
+   
+   .login1:hover span:after {
+    opacity: 1;
+    left: 0;
+   }
+
+   .textname1 {
+    padding: 5px;
+    margin: 5px;
+    border-color: #000000ab;
+    font-size: large;
+    background-color: #6e666244;
+   }
+
+   .textname2 {
+    padding: 5px;
+    margin: 5px;
+    border-color: #000000ab;
+    font-size: large;
+    background-color: #6e666244;
+
+   }
+
+   .email {
+    padding: 5px;
+    height: auto;
+    width: 463px;
+    border-color: #000000ab;
+    font-size: large;
+    background-color: #6e666244;
+
+   }
+
+   .password1 {
+    padding: 5px;
+    margin: 5px;
+    border-color: #000000ab;
+    font-size: large;
+    background-color: #6e666244;
+
+   }
+
+   .password2 {
+    padding: 5px;
+    margin: 5px;
+    border-color: #000000ab;
+    font-size: large;
+    background-color: #6e666244;
+
+   }
+
+   .img1 {
+    border-radius: 15px;
+    position: absolute;
+    margin-top: 3px;
+    margin-right: 5px;
+   }
+   .img2 {
+    margin-right: 430px;
+   }
+
+   .gender1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 1.3em;
+  width: 1.3em;
+  background-color: #6e666244;
+  border-radius: 50%;
+  transition: 300ms;
+   }
+   
+   .video1 {
+    width: 800px;
+    height: 500px;
+    margin-right: 250px;
+    border-radius: 20px;
+   }
+
+   .login2 {
+    position: absolute;
+    margin-top: 3px;
+    margin-right: 1160px;
+
+    font-family: monospace;
+    background-color: #f3f7fe;
+    color: #6e6662;
+    border: none;
+    border-radius: 8px;
+    font-size: xx-large;
+    width: 150px;
+    height: 68px;
+    transition: .3s;
+  }
+  
+  .login2:hover {
+    background-color: #6e6662;
+    box-shadow: 0 0 0 10px #6e66625f;
+    color: #fff;
+  }
+ 
